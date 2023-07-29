@@ -9,7 +9,7 @@
 ### 👥 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-farias-816090a6/"><img src="https://img.shields.io/badge/-Lucas%20Farias-333333?style=white&logo=linkedin"/></a>
-  <a href="https://www.instagram.com/lucasfarias.dev/"><img src="https://img.shields.io/badge/-lucasfarias.dev-333333?style=white&logo=instagram"/></a>
+  <a href="https://www.instagram.com/lucasfariascz/"><img src="https://img.shields.io/badge/-lucasfariascz-333333?style=white&logo=instagram"/></a>
   <a href="mailto:lucasfariasdacruz@gmail.com"><img src="https://img.shields.io/badge/-lucasfariasdacruz@gmail.com-333333?style=white&logo=gmail"/></a>
 </p>
 
