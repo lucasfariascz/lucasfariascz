@@ -1,8 +1,8 @@
 ### 🛠 About me
 <p>
   <em>
-   <b>Software Developer</b><br>
-   Company: <b>Cal Comp Eletronics / Instituto Cal-Comp de Tecnologia</b>;
+   <b>Software Developer Backend</b><br>
+   
   </em>  
 </p>
 
