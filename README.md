@@ -35,4 +35,4 @@ These are some of the technologies and tools that I work with:
 ### 📈 My Stats
 |My overall statistics|Top most languages |
 |------------------|-------------|
-|![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=lucasfariascz&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfariascz&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
+|![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=lucasfariascz&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfariascz&langs_count=20&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
